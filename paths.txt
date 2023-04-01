@@ -13,6 +13,9 @@ menu-login
 wp-admin
 sql-admin
 myadmin
+wp-signup
+wp-login.php
+wp-admin
 login_admin
 adminku
 administratorweb
